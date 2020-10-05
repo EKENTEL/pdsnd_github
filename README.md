@@ -6,6 +6,8 @@ Bikeshare Project
 
 ### Description
 Learning Git with Bikeshare 
+The hardest thing about Python is how to write it. 
+pyhton, pthyon, python vs.
 
 ### Files used
 Bikeshare project files, 
