@@ -18,3 +18,4 @@ Git Commands documentation
 https://stackoverflow.com/
 https://help.github.jp/
 https://refactoring.com/
+https://docs.microsoft.com/en-us/visualstudio/python/refactoring-python-code?view=vs-2019
